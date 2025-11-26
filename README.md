@@ -1,6 +1,6 @@
 # 📚 Documentação do Projeto
 
-Esta pasta contém documentação completa sobre o projeto Analytics Dashboard - Upay, preparada para apresentações e referência técnica.
+Esta pasta contém documentação completa sobre o projeto Analytics Dashboard usando a tecnologia da Hopy, preparada para apresentações e referência técnica.
 
 ## 📑 Documentos Disponíveis
 
